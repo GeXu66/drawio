@@ -13,6 +13,9 @@
         <mxCell id="n1MmH02HG768cn4FuK3e-1" value="$$J_\alpha(x) = \sum\limits_{m=0}^\infty \frac{(-1)^m}{m! \, \Gamma(m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha}$$" style="text;whiteSpace=wrap;direction=east;" vertex="1" parent="1">
           <mxGeometry x="110" y="390" width="253" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n1MmH02HG768cn4FuK3e-4" value="$$\sqrt{3×-1}+(1+x)^2$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
